@@ -30,7 +30,10 @@ npm init
 8. Display on your page at least **three** weather-related information in a nice way. Get creative with your design. You can add icons or use API icons if there are any.
 9. Last but not the least, **deploy and run** you app on **Heroku**.
     1. Submit your heroku link in the github repository read.me file.
+    Here is the link: https://marygopu143lab2.onrender.com
 10. Update the **readme file** by answering the following questions:
     1. Assume that in your API call you received a 401 status code. Which part of your code most probably is not correct?
+    401 status code usually means there is a problem with authentication, ie, Access denied due to authentication error. I most probably did not enter the correct API key. 
     2. Explain your design choices and how you used CSS to realize those changes.
+    I I used CSS inorder to improve readability and increase user interaction. I used my creativity in choosing colors that resemble real world weather colors for instance, the cloud is white and the sun is yellow. This improves readability alot.
 11. Submit your repository via github.
